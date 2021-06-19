@@ -1,2 +1,2 @@
 # OCR
-Reading text from images with easyocr 
+Reading text from images[invoice] with easyocr 
